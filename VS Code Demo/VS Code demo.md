@@ -1,3 +1,8 @@
+# Showcase session: VS Code
+### Presenter: Sina Amirrajab
+### Date: 06-04-2023
+### Email: s.amirrajab@tue.nl
+
 # VS Code demo
 
 ![Untitled](./images/Untitled.png)
